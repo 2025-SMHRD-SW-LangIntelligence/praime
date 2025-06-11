@@ -12,16 +12,7 @@ public class MemberController {
 		System.out.println("충돌");
 		System.out.println("충돌");
 		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
-		System.out.println("충돌");
+		System.out.println("충돌 시킵니다");
 		System.out.println("충돌");
 		System.out.println("충돌");
 		System.out.println("충돌");
