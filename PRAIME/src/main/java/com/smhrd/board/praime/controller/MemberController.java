@@ -7,7 +7,7 @@ public class MemberController {
 		System.out.println("충돌");
 		System.out.println("충돌");
 		System.out.println("충돌");
-		System.out.println("충돌");
+		System.out.println("충충돌돌");
 		System.out.println("충돌");
 		System.out.println("충돌");
 		System.out.println("충돌");
