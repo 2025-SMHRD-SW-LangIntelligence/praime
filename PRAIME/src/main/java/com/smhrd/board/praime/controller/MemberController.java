@@ -3,10 +3,7 @@ package com.smhrd.board.praime.controller;
 public class MemberController {
 
 	public static void main(String[] args) {
-<<<<<<< master
-		String a = "abcfd";
-		System.out.println(a);
-=======
+
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
@@ -30,6 +27,6 @@ public class MemberController {
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("팀원 2 : 김현수");
 		System.out.println("팀원 3 : 고해석");
->>>>>>> 16dcc3c 충돌테스트 이은석
+
 	}
 }
