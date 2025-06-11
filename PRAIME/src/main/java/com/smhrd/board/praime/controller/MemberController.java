@@ -23,7 +23,7 @@ public class MemberController {
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+		System.out.println("충돌연습!!!!!!!!!!!!!!!!!!!!!!!!!!!ㅁㄴㅇㄹ!");
 		System.out.println("팀원 2 : 김현수");
 		System.out.println("팀원 3 : 고해석");
 	}
