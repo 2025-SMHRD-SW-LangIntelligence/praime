@@ -9,6 +9,6 @@ public class MemberController {
 		System.out.println("C");
 		System.out.println("D");
 		System.out.println("LH2 Branch");
-
+		System.out.println("LES Branch");
 	}
 }
